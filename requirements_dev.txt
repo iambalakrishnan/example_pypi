@@ -1,0 +1,12 @@
+#python requirements below 
+
+
+
+
+# dev requirements
+pytest
+tox
+black
+flake8
+mypy
+-e .
